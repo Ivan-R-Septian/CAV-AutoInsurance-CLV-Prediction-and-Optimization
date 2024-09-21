@@ -11,7 +11,7 @@
 <hr style="border: 5px solid #1B4B5E; width: 80%; margin: 20px auto;">
 
 - ⭐[Ivan Robi Septian](https://github.com/Ivan-R-Septian), [Shafa Salzabila Meidita](https://github.com/shafameidita), [Ammar Muzaki Maftuh](https://github.com/Zacky182)
-- 📊[Tableau Dashboard](https://public.tableau.com/app/profile/shafa.salzabila.meidita/viz/CAVAutoinsurance/CavalierDashboard)
+- 📊[Tableau Dashboard](https://public.tableau.com/app/profile/ivan.robi.septian/viz/CAVAutoinsurance-Storyboard_17266649540990/CavalierStoryboard)
 - 📓[Notebook Analysis](https://github.com/PurwadhikaDev/CavalierGroup_DTI_01_FinalProject/blob/main/Autoinsurance_Cavalier.ipynb)
 - 🔖[Customer Lifetime Value Dataset](https://www.kaggle.com/ranja7/vehicle-insurance-customer-data)
 
